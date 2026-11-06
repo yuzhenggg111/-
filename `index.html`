@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="0; url=./%E8%BD%BB%E8%84%82%E8%88%AA%E6%B5%B7%E5%9B%BE-GitHub-Pages/">
+  <title>正在打开轻脂航海图</title>
+</head>
+<body>
+  <p>正在打开轻脂航海图…</p>
+  <p><a href="./%E8%BD%BB%E8%84%82%E8%88%AA%E6%B5%B7%E5%9B%BE-GitHub-Pages/">如果没有自动跳转，请点这里</a></p>
+  <script>
+    location.replace("./%E8%BD%BB%E8%84%82%E8%88%AA%E6%B5%B7%E5%9B%BE-GitHub-Pages/");
+  </script>
+</body>
+</html>
